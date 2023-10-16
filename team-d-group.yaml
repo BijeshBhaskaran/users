@@ -7,8 +7,8 @@ spec:
   type: team
   profile:
     displayName: Team D
-    email: team-d@example.com
-    picture: https://avatars.dicebear.com/api/identicon/team-d@example.com.svg?background=%23fff&margin=25
+    email: team-d@capgemini.com
+    picture: https://avatars.dicebear.com/api/identicon/team-d@capgemini.com.svg?background=%23fff&margin=25
   parent: boxoffice
   children: []
 ---
@@ -19,8 +19,8 @@ metadata:
 spec:
   profile:
     displayName: Eva MacDowell
-    email: eva-macdowell@example.com
-    picture: https://avatars.dicebear.com/api/avataaars/eva-macdowell@example.com.svg?background=%23fff
+    email: eva-macdowell@capgemini.com
+    picture: https://avatars.dicebear.com/api/avataaars/eva-macdowell@capgemini.com.svg?background=%23fff
   memberOf: [team-d]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -30,6 +30,6 @@ metadata:
 spec:
   profile:
     displayName: Lucy Sheehan
-    email: lucy-sheehan@example.com
-    picture: https://avatars.dicebear.com/api/avataaars/lucy-sheehan@example.com.svg?background=%23fff
+    email: lucy-sheehan@capgemini.com
+    picture: https://avatars.dicebear.com/api/avataaars/lucy-sheehan@capgemini.com.svg?background=%23fff
   memberOf: [team-d]
