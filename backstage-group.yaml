@@ -6,8 +6,8 @@ metadata:
 spec:
   type: sub-department
   profile:
-    displayName: Backstage
-    email: backstage@capgemini.com
+    displayName: CCA
+    email: cca@capgemini.com
     picture: https://avatars.dicebear.com/api/identicon/backstage@capgemini.com.svg?background=%23fff&margin=25
   parent: infrastructure
   children: [team-a, team-b]
